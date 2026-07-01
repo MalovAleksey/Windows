@@ -17,3 +17,9 @@
 **shutdown /s** - выключить.
 
 **shutdown /r** - перезагрузить
+
+
+**Set-ExecutionPolicy RemoteSigned -Scope Process** - разрешение на выполнение скрипта для конкретного окна.
+
+
+
